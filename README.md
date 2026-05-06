@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/lucasfernandossantos//" target="_blank">
+<a href="https://www.linkedin.com/in/lucasfernandossantos/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
