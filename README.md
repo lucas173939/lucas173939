@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Olá! Eu sou [Lucas] 💙
+# Olá! Eu sou Lucas 💙
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=C77DFF&size=28&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-end;Desenvolvedor+Back-end;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo"/>
 
@@ -42,13 +42,6 @@
 
 ---
 
-# 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
