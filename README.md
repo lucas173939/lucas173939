@@ -54,4 +54,4 @@ Contribuições em projeto colaborativo.
 www.linkedin.com/in/lucasfernandossantos
 
 📧 Email:
-seuemail@email.com
+lucasfernandolf@hotmail.com
