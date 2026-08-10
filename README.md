@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Lucas Fernando 👋</h1>
 
 <h3 align="center">
-Desenvolvedor Front-end | React | JavaScript | TypeScript
+Desenvolvedor Full Stack | React | JavaScript | TypeScript
 </h3>
 
 <p align="center">
