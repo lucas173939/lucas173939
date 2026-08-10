@@ -55,19 +55,6 @@ Portfólio pessoal com identidade visual própria, reunindo os projetos acima.
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucas173939&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas173939&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=lucas173939&theme=tokyonight"/>
-</p>
-
----
-
 <p align="center">
 📫 Aberto a oportunidades — entre em contato pelo <a href="https://www.linkedin.com/in/lucasfernandossantos">LinkedIn</a> ou <a href="mailto:lucasfernandolf@hotmail.com">e-mail</a>.
 </p>
